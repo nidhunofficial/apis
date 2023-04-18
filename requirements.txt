@@ -3,3 +3,4 @@ uvicorn
 requests
 pydantic
 guesslang
+protobuf~=3.19.0
